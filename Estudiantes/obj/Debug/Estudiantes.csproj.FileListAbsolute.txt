@@ -1,0 +1,11 @@
+G:\VISUAL\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+G:\VISUAL\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+G:\VISUAL\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+G:\VISUAL\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+G:\VISUAL\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.SuggestedBindingRedirects.cache
+G:\VISUAL\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+G:\VISUAL\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+G:\VISUAL\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+G:\VISUAL\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+G:\VISUAL\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+G:\VISUAL\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
