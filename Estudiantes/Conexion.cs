@@ -13,7 +13,7 @@ namespace Estudiantes
         public static SqlConnection Conectar() {
             SqlConnection con = new SqlConnection("SERVER=DESKTOP-E8KBADI\\SQLEXPRESSHUGO;DATABASE=REGISTRO;integrated security=true");
             con.Open();
-            return con;
+            return con; /*esta es la conexión con la BD del proyecto*/
 
         }
 
