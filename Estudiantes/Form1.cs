@@ -73,6 +73,7 @@ namespace Estudiantes
             
 
             MessageBox.Show("Los datos fueron insertados con exito");
+            MessageBox.Show("siguiente página");
             
             dataGridView1.DataSource=llenar_grid();
             Conexion.Desconectar();
